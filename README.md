@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AmaduKamara/AmaduKamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello, I'm glad to meet you!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm Amadu Kamara (Amkam)
+
+- 🔭 I’m currently working on my personal website. Please hold on, as you'll soon get the link to that <a href="">here</a> once I finish up soon. 👍
+- 👨‍💻 I'm a Web designer, developer and UI/UX designer.
+- 🌱 I’m currently studying Fullstack development at Microverse remote software development school.
+- 🌲 I constantly learn everyday to reach to the top of my potentials.
+- 👯 I’m looking to collaborate on, Website, Web application and UI/UX design projects to solve businesses and real-life problems that yield income and fortune.
+- 📫 You can get in touch with me via email: amaduskamara@gmail.com
+- ⚡ Fun fact: I'm a big fan of the MCU movies and The Avengers to be specific. Call me WebAvenger 💪 😎
+- 🎶 Pop and cool R&B sounds keep me going while at work or leisure time.
