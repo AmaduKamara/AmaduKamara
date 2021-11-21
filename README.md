@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Hello, I'm glad to meet you!
+# I'm glad to meet you!
 
 ### I'm Amadu Kamara (Amkam)
 
