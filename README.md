@@ -13,3 +13,5 @@
 - 📫 You can get in touch with me via email: amaduskamara@gmail.com
 - ⚡ Fun fact: I'm a big fan of the MCU movies and The Avengers to be specific. Call me WebAvenger 💪 😎
 - 🎶 Pop and cool R&B sounds keep me going while at work or leisure time.
+
+[![Amadu Kamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=amadukamara&show_icons=true&theme=calm)](https://github.com/amadukamara/github-readme-stats)
