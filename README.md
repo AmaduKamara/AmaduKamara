@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![giphy](https://user-images.githubusercontent.com/50941074/145535504-e7865f42-1c16-4fe5-a154-ce108bab0514.gif)
+![Amadu Kamaraa's Banner](https://user-images.githubusercontent.com/50941074/150499799-a9858e4f-c8e4-41ad-896d-5c7cff3c72a7.png)
 
 # I'm glad to meet you!
 
