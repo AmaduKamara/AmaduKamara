@@ -16,3 +16,5 @@
 - 🎶 Pop and cool R&B sounds keep me going while at work or leisure.
 
 [![Amadu Kamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=amadukamara&show_icons=true&theme=calm)](https://github.com/amadukamara/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amadukamara&theme=calm)](https://github.com/amadukamara)
