@@ -6,7 +6,7 @@
 
 ### I'm Amadu Kamara (Amkam)
 
-- 🔭 I’m currently working on my website. Please hold on you will get the link once I finish up soon. 👍
+<!-- - 🔭 I’m currently working on my website. Please hold on you will get the link once I finish up soon. 👍 -->
 - 👨‍💻 I'm a Web designer, developer, and UI/UX, designer.
 - 🌱 I’m currently studying Fullstack development at Microverse remote software development school.
 - 🌲 I constantly learn every day to reach the top of my potentials.
