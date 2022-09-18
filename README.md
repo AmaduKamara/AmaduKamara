@@ -6,7 +6,7 @@
 
 ### I'm Amadu Kamara (Amkam)
 
-- 🔭 Visit my website on this [link](https://amkam.vercel.app/) 👍 
+- 🔭 Visit my website on [this link](https://amkam.vercel.app/) 👍 
 - 👨‍💻 I'm a Web designer, developer, and UI designer.
 - 🌱 I’m currently studying Fullstack development at Microverse remote software development school.
 - 🌲 I constantly learn every day to reach the top of my potentials.
