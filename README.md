@@ -18,3 +18,8 @@
 [![Amadu Kamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=amadukamara&show_icons=true&theme=calm)](https://github.com/amadukamara/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amadukamara&theme=calm)](https://github.com/amadukamara)
+<br />
+<p> 
+  Profile Visits <br />
+  <img src="https://profile-counter.glitch.me/AmaduKamara/count.svg" />
+</p>
